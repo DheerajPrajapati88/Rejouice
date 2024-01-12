@@ -1,0 +1,41 @@
+@media(max-width:375px){
+    .page1{
+        height: 90vh;
+    }
+    .page2{
+        height: 80vh;
+    }
+    nav h3,h4{
+        font-size: 3.5vw;
+    }
+    .text_reveal{
+        font-size: 5vw;
+        /* background-color: yellow; */
+    }
+    .page3_top h4{
+        font-size: 6vw;
+    }
+    .page3_top h4 span{
+        font-size: 3vw;
+        padding: 2vw;
+    }
+    .page3_elm{
+        display: flex;
+        /* flex-direction: column; */
+        /* height: 100vh; */
+        gap: 2vw;
+    }
+    .page3_elm .box{
+        width: 90%;
+    }
+    .page5_top h1{
+        font-size: 12vw;
+    }
+    .page5{
+        height: 70vh;
+        
+    }
+    .loader h3{
+        font-size: 3vw;
+    }
+}
